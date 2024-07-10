@@ -7,6 +7,7 @@ Après avoir effectué de nombreuses recherches, j'ai été attiré par les mét
 Ma créativité me pousse à vouloir apprendre de nouvelles choses et à les mettre en pratique.
 
 Actuellement, je suis en train de suivre la formation de "concepteur développeur d'applications" à l'AFPA. 
+
 Je suis enthousiaste à l'idée de mettre en pratique mes compétences, d'apprendre de nouvelles technologies et de contribuer à des projets passionnants.
 ## Mes comptences 
 <img align="center" alt="vscode=" width="40px" src="./img/vscode.svg" />
