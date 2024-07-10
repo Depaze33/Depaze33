@@ -1,6 +1,6 @@
 ## Qui suis-je
 
-Passionnée par l'informatique depuis plusieurs année j'ai souhaitais me reconvertir dans le domaine.  Mon expérience dans les metiers du  social m'a permis d'acquérir de nombreuses compétences, notamment le travail en équipe pluridisciplinaire et la polyvalence.
+Passionnée par l'informatique depuis plusieurs année j'ai souhaitais me reconvertir dans le domaine.  Mes expériences dans les metiers du  social m'ont permis d'acquérir de nombreuses compétences, notamment le travail en équipe pluridisciplinaire et la polyvalence.
 
 Après avoir effectué de nombreuses recherches, j'ai été attiré par les métiers de développeuse web et de programmeuse informatique. 
 
