@@ -1,4 +1,4 @@
-##Qui suis-je
+## Qui suis-je
 
 Suite à une reconversion professionnelle, j'ai souhaité me former dans les métiers de l'informatique. Mon expérience dans le domaine social m'a permis d'acquérir de nombreuses compétences, notamment le travail en équipe pluridisciplinaire et la polyvalence.
 
