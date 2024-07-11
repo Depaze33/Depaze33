@@ -1,3 +1,5 @@
+Bienvenue sur mon github 👋
+
 ## Qui suis-je ❓❓
 
 Passionnée par l'informatique depuis plusieurs année j'ai souhaitais me reconvertir dans le domaine.  Mes expériences dans les metiers du  social m'ont permis d'acquérir de nombreuses compétences, notamment le travail en équipe pluridisciplinaire et la polyvalence.
