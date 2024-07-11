@@ -6,7 +6,7 @@ Passionnée par l'informatique depuis plusieurs année j'ai souhaitais me reconv
 
 Après avoir effectué de nombreuses recherches, j'ai été attiré par les métiers de développeuse web et de programmeuse informatique. 
 
-Ma créativité me pousse à vouloir apprendre de nouvelles choses et à les mettre en pratique.
+Ma curiosité me pousse à vouloir apprendre de nouvelles choses et à les mettre en pratique.
 
 Actuellement, je suis en train de suivre la formation de "concepteur développeur d'applications" à l'AFPA. 
 
@@ -22,6 +22,8 @@ Je suis enthousiaste à l'idée de mettre en pratique mes compétences, d'appren
 
 📖 Lecture 
 
-🎂 Patisserie
+✍️ Ecriture
+
+🎂 Patisserie 
 
 
