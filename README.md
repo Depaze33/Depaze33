@@ -12,9 +12,9 @@ Actuellement, je suis en train de suivre la formation de "concepteur développeu
 
 Je suis enthousiaste à l'idée de mettre en pratique mes compétences, d'apprendre de nouvelles technologies et de contribuer à des projets passionnants.
 ## Mes comptences 
-<img align="center" alt="vscode=" width="40px" src="./img/vscode.svg" />
+<img align="left" alt="vscode=" width="40px" src="./img/vscode.svg" /> <img align="center" alt="linkedin=" width="30px" src="./img/linkedin.svg" />
+
 <img align="left" alt="html=" width="40px" src="./img/html.svg" /> <img align="center" alt="css3=" width="40px" src="./img/css3.svg" /> <img align="center" alt="Java=" width="100px" src="./img/java-ar21.svg" />
-<img align="center" alt="linkedin=" width="30px" src="./img/linkedin.svg" />
 
 
 ## Mes passions et activités ⚽🥋
