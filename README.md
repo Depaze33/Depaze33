@@ -17,7 +17,9 @@ Je suis enthousiaste à l'idée de mettre en pratique mes compétences, d'appren
 
 ## Mes passions et activités ⚽🥋
 🛹Skate
+
 📖 Lecture 
+
 🎂 Patisserie
 
 
